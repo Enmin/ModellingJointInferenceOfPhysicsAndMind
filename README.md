@@ -1,2 +1,2 @@
 # ModellingJointInferenceOfPhysicsAndMind
-MCTS-RL
+Monte-Carlo Tree Search + Deep Learning
